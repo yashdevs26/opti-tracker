@@ -1,4 +1,4 @@
-# opti-tracker - A simple yet efficient activity and task logging app (POC)
+# opti-tracker - A simple yet efficient activity, task and finance logging app (POC)
 I made optiTracker as part of a portfilio project initiative to better familarize with the latest Spring Boot Ecosystem and some of AWS features. 
 
 This is a Proof of Concept in which I have utilized the latest Spring Boot framework version to contruct the REST API where Spring data JPA handles with the database instance, Spring Security handles the security with help of JWT tokenisation. Not only that, it uses Java Mail API to validate and register new users and configure their access to be able to use the app. Finally, this app was deployed to AWS initially using Elastic Beanstalk, EC2, S3 and RDS which better familiarised me with some of the core AWS features.
