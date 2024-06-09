@@ -1,13 +1,13 @@
 # opti-tracker - A simple yet efficient activity and task logging app (POC)
-I made optiTrackerr as part of a portfilio project initiative to better familarize with the latest Spring Boot Ecosystem and some of AWS features. 
+I made optiTracker as part of a portfilio project initiative to better familarize with the latest Spring Boot Ecosystem and some of AWS features. 
 
 This is a Proof of Concept in which I have utilized the latest Spring Boot framework version to contruct the REST API where Spring data JPA handles with the database instance, Spring Security handles the security with help of JWT tokenisation. Not only that, it uses Java Mail API to validate and register new users and configure their access to be able to use the app. Finally, this app was deployed to AWS initially using Elastic Beanstalk, EC2, S3 and RDS which better familiarised me with some of the core AWS features.
 
-Currently there are just simple tasks that can be logged as the focus was to first get the skeleton ready with keen focus on the REST API. The next stage is app's phase 1.1 development where the focus will be include some enhanced parameters like timestamps, date, task status and graphical; reports to further enhance the tasks facility. Furthermore, inclusion of Activities and Goals will enhance it with even more parameters to track. Finally the end goal is to include a finance and budget tracker which will leverage my microservices wo not only track my cash flow but also analyse some investment related parameters using realtime data.
+Currently there are just simple tasks that can be logged as the focus was to first get the skeleton ready with keen attention on the REST API. The next stage is app's phase 1.1 development where the focus will be include some enhanced parameters like timestamps, date, task status and graphical reports to further enhance its usability experience. Furthermore, inclusion of Activities and Goals will ensure there categorisation of parameters to track. Finally the end goal is to include a finance and budget tracker which will leverage my microservices to not only track the cash flow but also analyse some investment related parameters using realtime data.
 
-These functionalities will be outside POC scopes hence I will not make the code public. However, I do intend to make some content around the implementation so that anyone can understand on a high level as to what is going on.
+These functionalities will be outside POC scopes hence I will not make the code public. However, I do intend to make some content around the implementation so that anyone can understand on a high level what is the core logic being implemented.
 
-Opti-Tracker POC and Folio-Analyser POC will be made public with simple functionalities just to demonstrate the core skeleton features and as an example to my abilities to work on these technologies.
+Opti-Tracker POC and Folio-Scientist POC will be made public with simple functionalities just to demonstrate the core skeleton features and as an example to my abilities to work on these technologies.
 
 Please reach out to me in case of any queries or if you have anything ideas to contribute on these projects. 
 
