@@ -1,0 +1,13 @@
+{
+  "title": "Opti Tracker Alpha v0.1.4",
+  "text": "a simple yet efficient logging application for varity of day to day parameters including tasks, schedules, activites and finances",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
