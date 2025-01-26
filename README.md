@@ -1,19 +1,12 @@
-# opti-tracker - A simple yet efficient activity, task and finance logging app (POC)
-I made optiTracker as part of a portfilio project initiative to better familarize with the latest Spring Boot Ecosystem and some of AWS features. 
+# Opti-Tracker - A Simple Yet Efficient Activity, Task, and Finance Logging App (POC)
 
-This is a Proof of Concept in which I have utilized the latest Spring Boot framework version to contruct the REST API where Spring data JPA handles with the database instance, Spring Security handles the security with help of JWT tokenisation. Not only that, it uses Java Mail API to validate and register new users and configure their access to be able to use the app. Finally, this app was deployed to AWS initially using Elastic Beanstalk, EC2, S3 and RDS which better familiarised me with some of the core AWS features.
+Opti-Tracker is a Proof of Concept (POC) developed as part of a portfolio project initiative to gain hands-on experience with the latest Spring Boot ecosystem and AWS services.
 
-Currently there are just simple tasks that can be logged as the focus was to first get the skeleton ready with keen attention on the REST API. The next stage is app's phase 1.1 development where the focus will be include some enhanced parameters like timestamps, date, task status and graphical reports to further enhance its usability experience. Furthermore, inclusion of Activities and Goals will ensure there categorisation of parameters to track. Finally the end goal is to include a finance and budget tracker which will leverage my microservices to not only track the cash flow but also analyse some investment related parameters using realtime data.
+This application utilizes the latest version of the Spring Boot framework to construct a REST API, with Spring Data JPA for managing database instances and Spring Security for securing the application using JWT tokenization. The Java Mail API is integrated for user validation and registration, ensuring proper access configuration for app usage. The app is deployed on AWS, leveraging services such as Elastic Beanstalk, EC2, S3, and RDS, which provided valuable insights into core AWS features.
 
-These functionalities will be outside POC scopes hence I will not make the code public. However, I do intend to make some content around the implementation so that anyone can understand on a high level what is the core logic being implemented.
+Currently, the app supports basic task logging, with the primary focus on creating a solid skeleton with attention to REST API functionality. In the next phase (v1.1), enhancements will include parameters such as timestamps, dates, task status, and graphical reports to improve the usability experience. Additionally, the inclusion of Activities and Goals will allow for better categorization and tracking of parameters. The long-term goal is to integrate a finance and budget tracker, leveraging microservices to effectively track cash flow.
 
-Opti-Tracker POC and Folio-Scientist POC will be made public with simple functionalities just to demonstrate the core skeleton features and as an example to my abilities to work on these technologies.
-
-Please reach out to me in case of any queries or if you have anything ideas to contribute on these projects. 
-
-Thanks, 
-
-Y.
+For any inquiries or contributions to this project, please feel free to reach out.
 
 ## Attaching a few Screenshots from the App
 
