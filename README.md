@@ -1,4 +1,4 @@
-# Opti-Tracker - A Simple Yet Efficient Activity, Task, and Finance Logging App (POC)
+# Opti-Tracker - A Simple Yet Efficient Activity, and Task Logging App (POC)
 
 Opti-Tracker is a Proof of Concept (POC) developed as part of a portfolio project initiative to gain hands-on experience with the latest Spring Boot ecosystem and AWS services.
 
